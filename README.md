@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! This Page is a work in progress <br/><a href="https://github.com/AdamWhiston">Programmer</a>, <a href="https://www.linkedin.com/in/adam-whiston-424a471b6">Cybersecurity Professional</a>, <a href="Insert Link Here">Link</a></h1>
+<h1>Hi, I'm Adam! This Page is a work in progress <br/><a href="https://github.com/AdamWhiston">Programmer</a>, <a href="[https://www.linkedin.com/in/adam-whiston-424a471b6](https://github.com/AdamWhiston/CyberSecurity-Projects/blob/main/README.md)">Cybersecurity Professional</a>, <a href="[Insert Link Here](https://github.com/AdamWhiston/Ethical-Hacking-Projects/blob/main/README.md)">Ethical Hacker</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
