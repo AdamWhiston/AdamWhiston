@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- <b>More Security Projects (Github)</b>
-  - [CyberSecurity Projects](https://github.com/AdamWhiston/CyberSecurity-Projects/blob/main/README.md)
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -19,6 +18,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ <b>More Security Projects (Github)</b>
+  - [CyberSecurity Projects](https://github.com/AdamWhiston/CyberSecurity-Projects/blob/main/README.md)
 
 <h2>📺 Additional Resources I am Using</h2>
 
